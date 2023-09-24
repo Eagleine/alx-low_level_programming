@@ -2,6 +2,7 @@
 
 /**
  * main - function
+ * Description: 'prints _putchar to stdout'
  * Return: 0
  */
 
